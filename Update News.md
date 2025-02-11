@@ -14,17 +14,29 @@ We are thrilled to announce that the **Zombie Mod Infection Remake** is coming s
 The **Zombie Mod Infection Remake** will capture the essence of the original mod, with improvements to gameplay, new mechanics, and a smoother, more dynamic experience. Fans of the original will find all the nostalgia they love, but with new surprises that will enhance the gameplay.
 
 Stay tuned for more updates as the remake takes shape—it’s coming closer to being ready for release!
-
 ---
+-------------------------------------------------------------------------
+### [Sub Plugin Updates] - 11/02/2025 2:03 AM
 
-**Key Features to Look Forward to:**
-- Reworked infection mechanics
-- New features and optimizations
-- Nostalgic feel with modern updates
-- Enhanced gameplay balance
+In addition to the **Zombie Mod Infection Remake** announcement, we are also excited to share some updates on the **sub plugins** that have been tested and integrated into the mod during development. These plugins add exciting new features to enhance the overall gameplay experience.
 
-Keep an eye out for more details as we continue developing the remake—it's almost here!
+### **1. Knockback by Cheap_Suit**
+The **Knockback plugin** modifies the weapon knockback, making combat more dynamic and challenging. Players will feel the impact of their shots in a whole new way, adding more strategy to engagements.
 
+### **2. Infect Effect by Dias**
+The **Infect Effect plugin** creates a custom visual effect when players are infected, enhancing the immersion and creating a more intense atmosphere. This effect will add to the excitement of being infected, as players will visually experience the change.
+
+### **3. Flare Nade by MeRcyLeZZ**
+The **Flare Nade plugin** introduces flare grenades that illuminate the battlefield. Players can strategically use these flares for light or to signal teammates, adding an element of teamwork and tactics to the game.
+
+**Credits:**  
+- **Cheap_Suit** – Creator of the Knockback plugin  
+- **Dias** – Creator of the Infect Effect plugin  
+- **MeRcyLeZZ** – Creator of the Flare Nade plugin
+
+These sub plugins have been thoroughly tested and refined for the **Zombie Mod Infection Remake** and will provide players with an enhanced experience once the mod is released.
+
+Stay tuned for more updates as development continues!
 ---
-
+-------------------------------------------------------------------------
 
