@@ -39,4 +39,17 @@ These sub plugins have been thoroughly tested and refined for the **Zombie Mod I
 Stay tuned for more updates as development continues!
 ---
 -------------------------------------------------------------------------
+---
+### [Official Release] - 23/02/2025 6:08 PM
 
+The wait is over! We are excited to officially announce the public release of Zombie Mod Infection! 🎉
+
+After months of development, testing, and refining, the mod is now available for everyone. This remake stays true to the original Zombie Mod Infection, while introducing new mechanics, optimizations, and enhanced gameplay features to deliver a fresh experience for both veterans and newcomers.
+
+Requirements
+To run Zombie Mod Infection, you need:
+✅ Counter-Strike 1.6 (Steam or non-Steam)
+✅ AMX Mod X 1.8.3+ (or a newer version)
+
+We Want Your Feedback!
+We value your experience and want to hear from you! After diving into the Zombie Mod Infection, please share your thoughts, suggestions, and any issues you might encounter. Your feedback helps us improve the mod and make future updates even better.
