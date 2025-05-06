@@ -53,3 +53,22 @@ To run Zombie Mod Infection, you need:
 
 We Want Your Feedback!
 We value your experience and want to hear from you! After diving into the Zombie Mod Infection, please share your thoughts, suggestions, and any issues you might encounter. Your feedback helps us improve the mod and make future updates even better.
+
+---
+-------------------------------------------------------------------------
+---
+### [New Plugin: Server Lore] - 06/05/2025 1:33 AM
+
+Ever feel like your server has stories to tell?
+Server Lore is a lightweight plugin that brings a bit of mystery, humor, or nostalgia to your rounds by displaying short HUD messages—mini tales that feel like memories from your server's past (real or imagined).
+
+Each round, a new line of lore is shown, selected randomly from a list you can fully customize.
+Think of it like your server whispering its own urban legends.
+
+✅ Multilingual support
+✅ Never repeats the same line twice in a row
+✅ Fully customizable timing, message slots, and HUD settings
+✅ Works with any mod
+
+Create your own server mythology—one message at a time.
+
