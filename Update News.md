@@ -72,3 +72,52 @@ Think of it like your server whispering its own urban legends.
 
 Create your own server mythology—one message at a time.
 
+---
+-------------------------------------------------------------------------
+---
+### [Zombie Mod Infection Fixing-Notice] - 30/05/2025 8:00 PM
+
+Several bugs and design oversights were found in the latest version of the plugin. As a result, the .rar file has been temporarily removed to perform fixes, improvements, and model renaming.
+
+🔍 Issues Identified:
+
+Forced joinclass command loop:
+In the clcmd_changeteam function, a line was found that forced the execution of the joinclass command. If triggered once, it would repeat indefinitely, leaving the player unable to operate the menu or interact normally — especially when no team could be selected, resulting in a frozen state.
+
+Model naming conflict:
+The zombie model names contained special characters such as "()", which led to errors in model transmission on the server. Model names are now being renamed to avoid these issues.
+
+Incorrect help menu display:
+Some entries in the help system were not being displayed completely or correctly.
+
+Bot weapon assignment failure:
+The restriction system was not correctly applied to bots due to an incorrectly implemented assign_weapon method.
+
+A corrected version is being worked on and will be re-uploaded once all fixes are confirmed stable. Thanks for your patience and understanding.
+
+---
+-------------------------------------------------------------------------
+---
+### [Zombie Mod Annihilation Announce] - 30/05/2025 8:10 PM
+
+We’re excited to officially introduce Zombie Mod Annihilation, a fast-paced and aggressive zombie game mode developed as a companion to Zombie Mod Infection, both crafted under the legacy of Mystic Death.
+
+Unlike Infection, where the zombie outbreak spreads over time, Annihilation dives straight into chaos — the undead are ready from the start, and survival is not optional.
+
+🔹 What is Zombie Mod Annihilation?
+A streamlined, no-nonsense version of zombie gameplay:
+
+🧟‍♂️ Zombies spawn immediately: Terrorists are already infected at the start of each round.
+
+⚔️ No infection system: It’s full-scale war from second one — 50% humans, 50% zombies.
+
+🧩 Shares core resources with Zombie Mod Infection to ensure stability and compatibility.
+
+🎭 Includes a unique zombie model that went unnoticed in the original .rar but is now officially integrated.
+
+🛠️ Why choose Annihilation?
+It’s perfect for players and server owners looking for a more direct PvP experience with no interruptions, no transitions, and no confusion. Everyone knows their role, and every second counts.
+
+A full release including all required assets and installation support for AMX Mod X on Counter-Strike 1.6 will be available soon.
+
+Stay alert. Stay alive — or not.
